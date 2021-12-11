@@ -1,0 +1,16 @@
+form{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    width: 500px;
+    height: 200px;
+    margin:16% 30%;
+    box-shadow:  0 0 40px rgb(252, 38, 0),0 0 10px red;
+    background-color: rgb(0, 255, 170);
+}
+form input{
+    outline: none;
+
+}
+#envoyer{
+    background-color: tomato;
+}
